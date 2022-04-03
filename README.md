@@ -1,0 +1,2 @@
+# free-script
+king
